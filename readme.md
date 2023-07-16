@@ -141,7 +141,8 @@
 
 <p>
 Вот примеры несериализуемых данных: примитив undefined, функция, [symbol](https://doka.guide/js/symbol/) - при вызове JSON.stringify получаем undefined
-</p>    
+</p>
+<p>Что бы работать с сериализуемыми данными можно использовать библиотеку *Lodash* или *structuredClone* Источник - https://habr.com/ru/companies/otus/articles/719460/</p>    
 
 
 </div>
