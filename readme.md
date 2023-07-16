@@ -145,9 +145,7 @@
     
 </p>
 <p>
-    
     Что бы работать с сериализуемыми данными можно использовать библиотеку *Lodash* или *structuredClone* Источник - https://habr.com/ru/companies/otus/articles/719460/
-
 </p>    
 
 
