@@ -140,9 +140,15 @@
 <p>У этого метода есть ограничение — копируемые данные должны быть сериализуемы.</p>
 
 <p>
+    
 Вот примеры несериализуемых данных: примитив undefined, функция, [symbol](https://doka.guide/js/symbol/) - при вызове JSON.stringify получаем undefined
+    
 </p>
-<p>Что бы работать с сериализуемыми данными можно использовать библиотеку *Lodash* или *structuredClone* Источник - https://habr.com/ru/companies/otus/articles/719460/</p>    
+<p>
+    
+    Что бы работать с сериализуемыми данными можно использовать библиотеку *Lodash* или *structuredClone* Источник - https://habr.com/ru/companies/otus/articles/719460/
+
+</p>    
 
 
 </div>
